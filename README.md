@@ -1,6 +1,6 @@
 # Volo: AI-Enhanced Driver Wellness Monitoring
 
-<img width="380" height="830" alt="Screenshot 2025-11-09 191947" src="https://github.com/user-attachments/assets/f4ba273f-b255-4934-9fe6-91b5463f67b5" />
+
 
 
 ### Our "Empathic Co-pilot" for the Volkswagen i.mobilothon 5.0
