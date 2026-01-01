@@ -9,9 +9,7 @@
 [![Flutter 3.x](https://img.shields.io/badge/Flutter-3.x-blue.svg)](https://flutter.dev)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green.svg)](https://opencv.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
-
-**Team:** Volo
-**Team Leader:** Rishav Kumar Sinha 
+ 
 **Event:** Volkswagen i.mobilothon 5.0 (Student Track)
 
 ---
